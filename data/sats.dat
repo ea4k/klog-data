@@ -82,5 +82,5 @@
 <app_klog_sats_arrlid:5>XW-2C <app_klog_sats_name:14>XW-2C (CAS-3C) <app_klog_sats_uplink:15>435.150-435.170 <app_klog_sats_downlink:15>145.795-145.815  <app_klog_sats_mode:7>LSB/USB <EOR>
 <app_klog_sats_arrlid:5>XW-2D <app_klog_sats_name:14>XW-2D (CAS-3D) <app_klog_sats_uplink:15>435.210-435.230 <app_klog_sats_downlink:15>145.860-145.880  <app_klog_sats_mode:7>LSB/USB <EOR>
 <app_klog_sats_arrlid:5>XW-2E <app_klog_sats_name:14>XW-2E (CAS-3E) <app_klog_sats_uplink:15>435.270-435.290 <app_klog_sats_downlink:15>145.915-145.935  <app_klog_sats_mode:7>LSB/USB <EOR>
-<app_klog_sats_arrlid:4>XW-3 <app_klog_sats_name:12>XW-3 (CAS-9) <app_klog_sats_uplink:15>145.855-145.885 <app_klog_sats_downlink:15>435.165-435.195  <app_klog_sats_mode:7>LSB/USB <EOR>
+<app_klog_sats_arrlid:6>HO-113 <app_klog_sats_name:12>XW-3 (CAS-9) <app_klog_sats_uplink:15>145.855-145.885 <app_klog_sats_downlink:15>435.165-435.195  <app_klog_sats_mode:7>LSB/USB <EOR>
 <app_klog_sats_arrlid:5>XW-2F <app_klog_sats_name:14>XW-2F (CAS-3F) <app_klog_sats_uplink:15>435.330-435.350 <app_klog_sats_downlink:15>145.980-145.999  <app_klog_sats_mode:7>LSB/USB <EOR>
