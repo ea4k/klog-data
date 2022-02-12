@@ -26,7 +26,7 @@
 <app_klog_sats_arrlid:7>BIRD-MY <app_klog_sats_name:9>UiTMSat-1 <app_klog_sats_uplink:7>145.825 <app_klog_sats_downlink:7>145.825 <app_klog_sats_mode:3>PKT <EOR>
 <app_klog_sats_arrlid:7>BIRD-PH <app_klog_sats_name:6>MAYA-1 <app_klog_sats_uplink:7>145.825 <app_klog_sats_downlink:7>145.825 <app_klog_sats_mode:3>PKT <EOR>
 <app_klog_sats_arrlid:6>BY70-1 <app_klog_sats_name:19>Bayi Kepu Weixing 1 <app_klog_sats_uplink:6>145.920 <app_klog_sats_downlink:5>436.200 <app_klog_sats_mode:2>FM <EOR>
-<app_klog_sats_arrlid:6>CAS-3H <app_klog_sats_name:10>LilacSat-2 <app_klog_sats_uplink:15>144.350,144.390 <app_klog_sats_downlink:15>437.225,144.390 <app_klog_sats_mode:9>CW,FM,PKT <EOR>
+<app_klog_sats_arrlid:6>CAS-3H <app_klog_sats_name:10>LilacSat-2 <app_klog_sats_uplink:15>144.350,144.390 <app_klog_sats_downlink:15>437.200,144.390 <app_klog_sats_mode:9>CW,FM,PKT <EOR>
 <app_klog_sats_arrlid:6>CAS-4A <app_klog_sats_name:9>CAMSAT 4A <app_klog_sats_uplink:15>435.210-435.230 <app_klog_sats_downlink:15>145.880-145.860 <app_klog_sats_mode:7>LSB/USB <EOR>
 <app_klog_sats_arrlid:6>CAS-4B <app_klog_sats_name:9>CAMSAT 4B <app_klog_sats_uplink:15>435.270-435.290 <app_klog_sats_downlink:15>145.935-145.915 <app_klog_sats_mode:7>LSB/USB <EOR>
 <app_klog_sats_arrlid:5>DO-64 <app_klog_sats_name:14>Delfi OSCAR-64 <app_klog_sats_uplink:0> <app_klog_sats_downlink:7>145.870  <app_klog_sats_mode:2>CW <EOR>
@@ -38,6 +38,7 @@
 <app_klog_sats_arrlid:5>FO-29 <app_klog_sats_name:13>Fuji-OSCAR 29 <app_klog_sats_uplink:15>145.900-146.000 <app_klog_sats_downlink:15>435.900-435.800  <app_klog_sats_mode:7>LSB/USB <EOR>
 <app_klog_sats_arrlid:5>FO-99 <app_klog_sats_name:5>NEXUS <app_klog_sats_uplink:15>145.900-145.930 <app_klog_sats_downlink:15>435.880-435.910 <app_klog_sats_mode:7>LSB/USB <EOR>
 <app_klog_sats_arrlid:4>FS-3 <app_klog_sats_name:11>FalconSat-3 <app_klog_sats_uplink:7>435.103 <app_klog_sats_downlink:7>145.840 <app_klog_sats_mode:3>PKT <EOR>
+<app_klog_sats_arrlid:6>HO-113 <app_klog_sats_name:12>XW-3 (CAS-9) <app_klog_sats_uplink:15>145.855-145.885 <app_klog_sats_downlink:15>435.165-435.195  <app_klog_sats_mode:7>LSB/USB <EOR>
 <app_klog_sats_arrlid:5>HO-68 <app_klog_sats_name:13>Hope OSCAR 68 <app_klog_sats_uplink:23>145.925-145.975,145.825 <app_klog_sats_downlink:23>435.765-435.715,435.675  <app_klog_sats_mode:10>LSB/USB,FM <EOR>
 <app_klog_sats_arrlid:5>IO-86 <app_klog_sats_name:14>LAPAN-A2/ORARI <app_klog_sats_uplink:7>435.880 <app_klog_sats_downlink:7>145.880  <app_klog_sats_mode:2>FM <EOR>
 <app_klog_sats_arrlid:5>JO-97 <app_klog_sats_name:6>JY1SAT <app_klog_sats_uplink:15>435.100-435.120 <app_klog_sats_downlink:15>145.855-145.875 <app_klog_sats_mode:7>LSB/USB <EOR>
