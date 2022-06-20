@@ -54,11 +54,12 @@
 <app_klog_sats_arrlid:6>NO-103 <app_klog_sats_name:8>BRICSAT2 <app_klog_sats_uplink:7>145.825 <app_klog_sats_downlink:7>145.825 <app_klog_sats_mode:2>FM <EOR>
 <app_klog_sats_arrlid:6>NO-104 <app_klog_sats_name:5>PSAT2 <app_klog_sats_uplink:7>145.825 <app_klog_sats_downlink:7>145.825 <app_klog_sats_mode:2>FM <EOR>
 <app_klog_sats_arrlid:6>PO-101 <app_klog_sats_name:8>DIWATA-2 <app_klog_sats_uplink:7>437.500 <app_klog_sats_downlink:7>145.900 <app_klog_sats_mode:2>FM <EOR>
+<app_klog_sats_arrlid:6>QO-100 <app_klog_sats_name:9>ES'HAIL-2 <app_klog_sats_uplink:17>2400.050-2409.500 <app_klog_sats_downlink:19>10489.550-10499.000 <app_klog_sats_mode:6>SSB,CW <EOR>
 <app_klog_sats_arrlid:8>RS0ISS-4 <app_klog_sats_name:5>ARISS <app_klog_sats_uplink:7>145.825 <app_klog_sats_downlink:7>145.825 <app_klog_sats_mode:3>PKT <EOR>
 <app_klog_sats_arrlid:4>RS-1 <app_klog_sats_name:15>Radio Sputnik 1 <app_klog_sats_uplink:3>145 <app_klog_sats_downlink:2>29  <app_klog_sats_mode:0> <EOR>
 <app_klog_sats_arrlid:5>RS-10 <app_klog_sats_name:16>Radio Sputnik 10 <app_klog_sats_uplink:13>29.357,29.403 <app_klog_sats_downlink:0>  <app_klog_sats_mode:0> <EOR>
 <app_klog_sats_arrlid:5>RS-11 <app_klog_sats_name:16>Radio Sputnik 11 <app_klog_sats_uplink:13>29.357,29.403 <app_klog_sats_downlink:0>  <app_klog_sats_mode:0> <EOR>
-<app_klog_sats_arrlid:5>RS-12 <app_klog_sats_name:16>Radio Sputnik 12 <app_klog_sats_uplink:13>21.210-21.250 <app_klog_sats_downlink:13>29.410-29.450  <app_klog_sats_mode:3>SSB <EOR>
+<app_klog_sats_arrlid:5>RS-12 <app_klog_sats_name:16>Radio Sputnik 12 <app_klog_sats_uplink:13>21.210-21.250 <app_klog_sats_downlink:13>29.410-29.450  <app_klog_sats_mode:3>SSB, <EOR>
 <app_klog_sats_arrlid:5>RS-13 <app_klog_sats_name:16>Radio Sputnik 13 <app_klog_sats_uplink:13>21.260-21.300 <app_klog_sats_downlink:15>145.860-145.900  <app_klog_sats_mode:3>SSB <EOR>
 <app_klog_sats_arrlid:5>RS-15 <app_klog_sats_name:16>Radio Sputnik 15 <app_klog_sats_uplink:0> <app_klog_sats_downlink:15>29.3525-29.3987  <app_klog_sats_mode:0> <EOR>
 <app_klog_sats_arrlid:4>RS-2 <app_klog_sats_name:15>Radio Sputnik 2 <app_klog_sats_uplink:3>145 <app_klog_sats_downlink:2>29  <app_klog_sats_mode:0> <EOR>
