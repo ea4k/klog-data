@@ -38,6 +38,7 @@
 <app_klog_sats_arrlid:5>FO-29 <app_klog_sats_name:13>Fuji-OSCAR 29 <app_klog_sats_uplink:15>145.900-146.000 <app_klog_sats_downlink:15>435.900-435.800  <app_klog_sats_mode:7>LSB/USB <EOR>
 <app_klog_sats_arrlid:5>FO-99 <app_klog_sats_name:5>NEXUS <app_klog_sats_uplink:15>145.900-145.930 <app_klog_sats_downlink:15>435.880-435.910 <app_klog_sats_mode:7>LSB/USB <EOR>
 <app_klog_sats_arrlid:4>FS-3 <app_klog_sats_name:11>FalconSat-3 <app_klog_sats_uplink:7>435.103 <app_klog_sats_downlink:7>145.840 <app_klog_sats_mode:3>PKT <EOR>
+<app_klog_sats_arrlid:6>IO-117 <app_klog_sats_name:9>GreenCube <app_klog_sats_uplink:7>435.310 <app_klog_sats_downlink:7>435.310 <app_klog_sats_mode:3>PKT <EOR>
 <app_klog_sats_arrlid:6>HO-113 <app_klog_sats_name:12>XW-3 (CAS-9) <app_klog_sats_uplink:15>145.855-145.885 <app_klog_sats_downlink:15>435.165-435.195  <app_klog_sats_mode:7>LSB/USB <EOR>
 <app_klog_sats_arrlid:5>HO-68 <app_klog_sats_name:13>Hope OSCAR 68 <app_klog_sats_uplink:23>145.925-145.975,145.825 <app_klog_sats_downlink:23>435.765-435.715,435.675  <app_klog_sats_mode:10>LSB/USB,FM <EOR>
 <app_klog_sats_arrlid:5>IO-86 <app_klog_sats_name:14>LAPAN-A2/ORARI <app_klog_sats_uplink:7>435.880 <app_klog_sats_downlink:7>145.880  <app_klog_sats_mode:2>FM <EOR>
