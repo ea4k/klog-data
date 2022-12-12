@@ -29,7 +29,7 @@
 <app_klog_sats_arrlid:6>CAS-3H <app_klog_sats_name:10>LilacSat-2 <app_klog_sats_uplink:15>144.350,144.390 <app_klog_sats_downlink:15>437.200,144.390 <app_klog_sats_mode:9>CW,FM,PKT <EOR>
 <app_klog_sats_arrlid:6>CAS-4A <app_klog_sats_name:9>CAMSAT 4A <app_klog_sats_uplink:15>435.210-435.230 <app_klog_sats_downlink:15>145.880-145.860 <app_klog_sats_mode:7>LSB/USB <EOR>
 <app_klog_sats_arrlid:6>CAS-4B <app_klog_sats_name:9>CAMSAT 4B <app_klog_sats_uplink:15>435.270-435.290 <app_klog_sats_downlink:15>145.935-145.915 <app_klog_sats_mode:7>LSB/USB <EOR>
-<app_klog_sats_arrlid:6>CAS-5A <app_klog_sats_name:9>CAMSAT 5A <app_klog_sats_uplink:39>145.835-145.805,21.4425-21.4275,145.925 <app_klog_sats_downlink:41>435.555-435.525,435.5125-435.4975,435.600 <app_klog_sats_mode:18>USB/USB,USB/USB,FM <EOR>
+<app_klog_sats_arrlid:6>CAS-5A <app_klog_sats_name:9>CAMSAT 5A <app_klog_sats_uplink:39>145.925,145.835-145.805,21.4425-21.4275 <app_klog_sats_downlink:41>435.600,435.555-435.525,435.5125-435.4975 <app_klog_sats_mode:18>USB/USB,USB/USB,FM <EOR>
 <app_klog_sats_arrlid:5>DO-64 <app_klog_sats_name:14>Delfi OSCAR-64 <app_klog_sats_uplink:0> <app_klog_sats_downlink:7>145.870  <app_klog_sats_mode:2>CW <EOR>
 <app_klog_sats_arrlid:10>DUCHIFAT-3 <app_klog_sats_name:10>DUCHIFAT-3 <app_klog_sats_uplink:7>145.970 <app_klog_sats_downlink:7>436.400 <app_klog_sats_mode:2>FM <EOR>
 <app_klog_sats_arrlid:5>EO-79 <app_klog_sats_name:6>QB50p1 <app_klog_sats_uplink:0> <app_klog_sats_downlink:7>145.815 <app_klog_sats_mode:3>USB <EOR>
