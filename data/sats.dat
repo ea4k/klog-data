@@ -75,8 +75,14 @@
 <app_klog_sats_arrlid:5>SO-41 <app_klog_sats_name:11>Saudisat-1A <app_klog_sats_uplink:0> <app_klog_sats_downlink:7>436.775  <app_klog_sats_mode:2>FM <EOR>
 <app_klog_sats_arrlid:5>SO-50 <app_klog_sats_name:11>Saudisat-1C <app_klog_sats_uplink:7>145.850 <app_klog_sats_downlink:7>436.795  <app_klog_sats_mode:2>FM <EOR>
 <app_klog_sats_arrlid:5>SO-67 <app_klog_sats_name:19>Sumbandila OSCAR 67 <app_klog_sats_uplink:7>145.875 <app_klog_sats_downlink:7>435.345  <app_klog_sats_mode:2>FM <EOR>
-<app_klog_sats_arrlid:7>TEVEL-3 <app_klog_sats_name:7>Tevel-3 <app_klog_sats_uplink:7>145.970 <app_klog_sats_downlink:7>436.400  <app_klog_sats_mode:2>FM <EOR>
-<app_klog_sats_arrlid:7>TEVEL-4 <app_klog_sats_name:7>Tevel-4 <app_klog_sats_uplink:7>145.970 <app_klog_sats_downlink:7>436.400  <app_klog_sats_mode:2>FM <EOR>
+<app_klog_sats_arrlid:6>TEVEL1 <app_klog_sats_name:7>Tevel-1 <app_klog_sats_uplink:7>145.970 <app_klog_sats_downlink:7>436.400  <app_klog_sats_mode:2>FM <EOR>
+<app_klog_sats_arrlid:6>TEVEL2 <app_klog_sats_name:7>Tevel-2 <app_klog_sats_uplink:7>145.970 <app_klog_sats_downlink:7>436.400  <app_klog_sats_mode:2>FM <EOR>
+<app_klog_sats_arrlid:6>TEVEL3 <app_klog_sats_name:7>Tevel-3 <app_klog_sats_uplink:7>145.970 <app_klog_sats_downlink:7>436.400  <app_klog_sats_mode:2>FM <EOR>
+<app_klog_sats_arrlid:6>TEVEL4 <app_klog_sats_name:7>Tevel-4 <app_klog_sats_uplink:7>145.970 <app_klog_sats_downlink:7>436.400  <app_klog_sats_mode:2>FM <EOR>
+<app_klog_sats_arrlid:6>TEVEL5 <app_klog_sats_name:7>Tevel-5 <app_klog_sats_uplink:7>145.970 <app_klog_sats_downlink:7>436.400  <app_klog_sats_mode:2>FM <EOR>
+<app_klog_sats_arrlid:6>TEVEL6 <app_klog_sats_name:7>Tevel-6 <app_klog_sats_uplink:7>145.970 <app_klog_sats_downlink:7>436.400  <app_klog_sats_mode:2>FM <EOR>
+<app_klog_sats_arrlid:6>TEVEL7 <app_klog_sats_name:7>Tevel-7 <app_klog_sats_uplink:7>145.970 <app_klog_sats_downlink:7>436.400  <app_klog_sats_mode:2>FM <EOR>
+<app_klog_sats_arrlid:6>TEVEL8 <app_klog_sats_name:7>Tevel-8 <app_klog_sats_uplink:7>145.970 <app_klog_sats_downlink:7>436.400  <app_klog_sats_mode:2>FM <EOR>
 <app_klog_sats_arrlid:6>TO-108 <app_klog_sats_name:5>CAS-6 <app_klog_sats_uplink:15>435.270-435.290 <app_klog_sats_downlink:15>145.915-145.935 <app_klog_sats_mode:11>USB,LSB/USB <EOR>
 <app_klog_sats_arrlid:6>UKUBE1 <app_klog_sats_name:19>UKube-1 (FUNcube-2) <app_klog_sats_uplink:15>435.080-435.060 <app_klog_sats_downlink:22>145.940-145.960,2401.0  <app_klog_sats_mode:10>LSB/USB,CW <EOR>
 <app_klog_sats_arrlid:5>UO-14 <app_klog_sats_name:14>UOSAT-OSCAR 14 <app_klog_sats_uplink:7>145.975 <app_klog_sats_downlink:7>435.070  <app_klog_sats_mode:2>FM <EOR>
