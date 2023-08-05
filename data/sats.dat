@@ -45,6 +45,7 @@
 <app_klog_sats_arrlid:5>IO-86 <app_klog_sats_name:14>LAPAN-A2/ORARI <app_klog_sats_uplink:7>435.880 <app_klog_sats_downlink:7>145.880  <app_klog_sats_mode:2>FM <EOR>
 <app_klog_sats_arrlid:5>JO-97 <app_klog_sats_name:6>JY1SAT <app_klog_sats_uplink:15>435.100-435.120 <app_klog_sats_downlink:15>145.855-145.875 <app_klog_sats_mode:7>LSB/USB <EOR>
 <app_klog_sats_arrlid:5>K2SAT <app_klog_sats_name:5>K2SAT <app_klog_sats_uplink:7>145.980 <app_klog_sats_downlink:7>436.225 <app_klog_sats_mode:2>FM <EOR>
+<app_klog_sats_arrlid:6>LEDSAT <app_klog_sats_name:6>LEDSAT <app_klog_sats_uplink:7>435.310 <app_klog_sats_downlink:7>435.190 <app_klog_sats_mode:3>PKT <EOR>
 <app_klog_sats_arrlid:5>LO-19 <app_klog_sats_name:14>Lusat-OSCAR 19 <app_klog_sats_uplink:15>145.840-145.900 <app_klog_sats_downlink:15>437.125-437.150  <app_klog_sats_mode:2>CW <EOR>
 <app_klog_sats_arrlid:5>LO-78 <app_klog_sats_name:14>LituanicaSAT-1 <app_klog_sats_uplink:13>145.95,145.85 <app_klog_sats_downlink:15>435.176,437.543  <app_klog_sats_mode:6>FM,PKT <EOR>
 <app_klog_sats_arrlid:5>LO-87 <app_klog_sats_name:7>NUSAT-1 <app_klog_sats_uplink:15>435.935-435.965 <app_klog_sats_downlink:23>145.935-145.965 LSB/USB  <app_klog_sats_mode:0> <EOR>
