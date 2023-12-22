@@ -76,6 +76,7 @@
 <app_klog_sats_arrlid:5>SO-41 <app_klog_sats_name:11>Saudisat-1A <app_klog_sats_uplink:0> <app_klog_sats_downlink:7>436.775  <app_klog_sats_mode:2>FM <EOR>
 <app_klog_sats_arrlid:5>SO-50 <app_klog_sats_name:11>Saudisat-1C <app_klog_sats_uplink:7>145.850 <app_klog_sats_downlink:7>436.795  <app_klog_sats_mode:2>FM <EOR>
 <app_klog_sats_arrlid:5>SO-67 <app_klog_sats_name:19>Sumbandila OSCAR 67 <app_klog_sats_uplink:7>145.875 <app_klog_sats_downlink:7>435.345  <app_klog_sats_mode:2>FM <EOR>
+<app_klog_sats_arrlid:6>SO-121 <app_klog_sats_name:7>HADES-D <app_klog_sats_uplink:7>145.875 <app_klog_sats_downlink:7>436.663  <app_klog_sats_mode:2>FM <EOR>
 <app_klog_sats_arrlid:6>TEVEL1 <app_klog_sats_name:7>Tevel-1 <app_klog_sats_uplink:7>145.970 <app_klog_sats_downlink:7>436.400  <app_klog_sats_mode:2>FM <EOR>
 <app_klog_sats_arrlid:6>TEVEL2 <app_klog_sats_name:7>Tevel-2 <app_klog_sats_uplink:7>145.970 <app_klog_sats_downlink:7>436.400  <app_klog_sats_mode:2>FM <EOR>
 <app_klog_sats_arrlid:6>TEVEL3 <app_klog_sats_name:7>Tevel-3 <app_klog_sats_uplink:7>145.970 <app_klog_sats_downlink:7>436.400  <app_klog_sats_mode:2>FM <EOR>
